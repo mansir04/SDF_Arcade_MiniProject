@@ -1,4 +1,4 @@
-// This project was created by a group of three 1st year students as part of college coursework.
+// This project was created by a group of three 1st year students as part of the college coursework.
 
 // GITHUB LINK : https://github.com/mrdv54/SDF_Arcade_MiniProject
 
@@ -689,7 +689,7 @@ int main()
     //printing the team name
 
     cout<<"\n\n\t\t\t\tLab Final Even Semester 2022";
-    cout<<"\n\n\t\t\t   Team : https://github.com/mrdv54 \n\n\t\t\t\t   ";
+    cout<<"\n\n\t\t\t   Team : \n\n\t\t\t\t   ";
     cout<<"\n\n\t\t\t Jaypee Institute of Information Technology\n\t\t\t";
     printChar('=',38);
     cout<<"\n\n\n\t\t\t       Press any key to Enter";
