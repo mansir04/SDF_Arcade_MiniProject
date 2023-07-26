@@ -1,6 +1,4 @@
-// This project was created by a group of three 1st year students as part of the college coursework.
-
-// GITHUB LINK : https://github.com/mrdv54/SDF_Arcade_MiniProject
+// GITHUB LINK : https://github.com/mansir04/SDF_Arcade_MiniProject
 
 // Project is entirely made in C++ to demonstrate the use of classes and understand object oriented programming. 
 
